@@ -70,5 +70,6 @@ I believe in writing code that's not just functional, but elegant and maintainab
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&color=000000)](mailto:bogd2288@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4&color=000000)](https://t.me/bogd228)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/daisigu/)
 
 ---
